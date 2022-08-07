@@ -28,7 +28,7 @@ Using a context API
 
 ## Usage
 
-1. Run `yarn install`.<br />
+1. Run `yarn install` or `npm install`.<br />
 2. Run `yarn start` or `npm start`
 
 
